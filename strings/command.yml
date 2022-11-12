@@ -1,11 +1,11 @@
 # Bot Commands
 PING_COMMAND : ["ping", "alive"]
-START_COMMAND : ["start", "mstart"]
-HELP_COMMAND : ["help"]
+START_COMMAND : ["tstart", "mstart"]
+HELP_COMMAND : ["ghelp"]
 SETTINGS_COMMAND : ["settings", "setting"]
 RELOAD_COMMAND : ["admincache", "reload"]
 GSTATS_COMMAND : ["gstats", "globalstats"]
-STATS_COMMAND : ["stats"]
+STATS_COMMAND : ["mstats"]
 LANGUAGE_COMMAND : ["lundlang", "lavdalele", "langlund"]
 
 # Play Commands
